@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Link to demo on PCB](https://www.dropbox.com/scl/fi/wlp0poy3fge87f9is8fu8/IMG_6259.MOV?rlkey=6hiw2l3pcr1uelsrrb8k62q38&dl=0)
+[Demo of Simon on PCB](https://www.dropbox.com/scl/fi/wlp0poy3fge87f9is8fu8/IMG_6259.MOV?rlkey=6hiw2l3pcr1uelsrrb8k62q38&dl=0)
 
 <!-- GETTING STARTED -->
 ## Getting Started
