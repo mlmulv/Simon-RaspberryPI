@@ -14,7 +14,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#authors">Authors</a></li>
   </ol>
 </details>
